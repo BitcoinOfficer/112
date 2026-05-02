@@ -1,10 +1,5 @@
 <!-- ПРОФИЛЬ РАЗРАБОТЧИКА — BitcoinOfficer -->
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="48" valign="top"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain_strip.svg" width="48" height="3600"/></td>
-<td valign="top">
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/BTC.png" width="100%">
@@ -47,6 +42,8 @@
 
 ---
 
+<div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
+
 ## ![](https://img.shields.io/badge/-О_Разработчике-0039A6?style=flat-square) О Разработчике
 
 <table>
@@ -84,6 +81,8 @@ impl Developer {
 
 ---
 
+<div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
+
 ## ![](https://img.shields.io/badge/-Криптовалютная_Экосистема-0039A6?style=flat-square) Криптовалютная Экосистема
 
 <div align="center">
@@ -99,6 +98,8 @@ impl Developer {
 </div>
 
 ---
+
+<div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
 ## ![](https://img.shields.io/badge/-Технологический_Стек-D52B1E?style=flat-square) Технологический Стек
 
@@ -136,6 +137,8 @@ impl Developer {
 
 ---
 
+<div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
+
 ## ![](https://img.shields.io/badge/-Статистика_GitHub-0039A6?style=flat-square) Статистика GitHub
 
 <div align="center">
@@ -152,6 +155,8 @@ impl Developer {
 
 ---
 
+<div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
+
 ## ![](https://img.shields.io/badge/-График_Активности-D52B1E?style=flat-square) График Активности
 
 <div align="center">
@@ -161,6 +166,8 @@ impl Developer {
 </div>
 
 ---
+
+<div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
 ## ![](https://img.shields.io/badge/-Поддержать_Проект-F7931A?style=flat-square&logo=bitcoin&logoColor=white) Поддержать Проект
 
@@ -206,6 +213,8 @@ t1MtJJhhiZxEJK33ZfgKb8Vc4hcR1swMxec
 
 ---
 
+<div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/112.png" width="100%">
@@ -215,8 +224,3 @@ t1MtJJhhiZxEJK33ZfgKb8Vc4hcR1swMxec
 ![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=D52B1E&style=flat-square)
 
 </div>
-
-</td>
-<td width="48" valign="top"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain_strip.svg" width="48" height="3600"/></td>
-</tr>
-</table>
