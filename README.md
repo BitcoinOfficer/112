@@ -1,10 +1,14 @@
 <!-- ПРОФИЛЬ РАЗРАБОТЧИКА — BitcoinOfficer -->
 
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="48" valign="top"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain_strip.svg" width="48" height="3600"/></td>
+<td valign="top">
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/BTC.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%">
 
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/112.png" width="100%">
 
@@ -211,3 +215,8 @@ t1MtJJhhiZxEJK33ZfgKb8Vc4hcR1swMxec
 ![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=D52B1E&style=flat-square)
 
 </div>
+
+</td>
+<td width="48" valign="top"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain_strip.svg" width="48" height="3600"/></td>
+</tr>
+</table>
