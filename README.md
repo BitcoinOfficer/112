@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/BTC.png" width="100%">
 
+<img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%">
+
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/112.png" width="100%">
 
 <br/>
