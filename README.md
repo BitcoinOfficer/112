@@ -24,7 +24,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=0039A6&background=00000000&center=true&vCenter=true&width=440&lines=Инструменты+—+воплощение+воли+в+код.;Blockchain+forensics+%2F+Crypto+tooling.;Saint+Petersburg%2C+Russia+%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=F7931A&background=00000000&center=true&vCenter=true&width=440&lines=Инструменты+для+криптовалют.;Разработка+крипто+инструментов.;Блокчейн+и+форензика.;Криптографические+системы.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=0039A6&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
 
